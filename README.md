@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himanshu-Kumar-04
-- 👀 I’m interested in ai and game designing
+- 👋 Hi, I’m Himanshu Kumar
+- 👀 I’m intrested in game engine development
 - 🌱 I’m currently learning engineering at NSUT Delhi
 - 📫 How to reach me hkumarpcj04@outlook.com
